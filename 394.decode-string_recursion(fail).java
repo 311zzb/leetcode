@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 /*
  * @lc app=leetcode id=394 lang=java
  *
